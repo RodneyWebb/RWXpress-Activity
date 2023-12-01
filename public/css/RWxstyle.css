@@ -1,0 +1,18 @@
+body {
+    background-color: khaki;
+}
+
+#trweets-container {
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-size: 30px;
+    color: darkcyan;
+}
+
+/* .trweets-card {
+    width: 200px;
+    height: 300px;
+} */
